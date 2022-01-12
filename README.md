@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Jay</h1>
+<h3 align="center">I Love to Build Android App Ui And More.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay078" alt="jay078" /> </p>
+
+- 🔭 I’m currently working on **Collage Project**
+
+- 🌱 I’m currently learning **About Android Database**
+
+- 💬 Ask me about **Flutter Android XML**
